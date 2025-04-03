@@ -3,7 +3,7 @@
 I am currently a PhD student at Department of Molecular Medicine (MOMA) at Aarhus University.
 
 
-🎯 My work mainly focuses on computational methods for whole-genome sequence data from both healthy and diseased tissue. 
+🎯 My work mainly focuses on computational methods for whole-genome sequencing data from both healthy and diseased tissue. Including:
 - sensitive methods for rare variant discovery
 - ctDNA detection and quantification
 - *de novo* mutations detection
