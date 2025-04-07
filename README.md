@@ -19,7 +19,7 @@ I am a PhD student at the Department of Molecular Medicine (MOMA) at Aarhus Univ
 - Probabilistic diffusion models
 
 
-🔧 My current tech stack: 
+🔧 Methods I am applying in my day-to-day work: 
 - Coding: R, Python, bash
 - Data wrangling and analysis: tidyverse, numpy, pandas
 - Probabilistic modeling: STAN, JAGS, Pyro
